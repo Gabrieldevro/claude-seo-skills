@@ -1,0 +1,13 @@
+{
+  "name": "seo",
+  "version": "1.0.0",
+  "description": "SEO skills for Claude Code: on-page audit, titles & meta descriptions, JSON-LD schema, content briefs, internal linking, local SEO, AI search optimization (GEO, llms.txt) and technical SEO checks for Laravel, Next.js, WordPress and static sites.",
+  "author": {
+    "name": "Gabriel Dev",
+    "url": "https://gabrieldev.eu"
+  },
+  "homepage": "https://github.com/Gabrieldevro/claude-seo-skills",
+  "repository": "https://github.com/Gabrieldevro/claude-seo-skills",
+  "license": "MIT",
+  "keywords": ["seo", "geo", "schema", "json-ld", "meta", "local-seo", "llms-txt", "content", "audit"]
+}

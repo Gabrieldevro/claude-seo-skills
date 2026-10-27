@@ -1,0 +1,15 @@
+{
+  "name": "gabrieldev",
+  "description": "SEO, local SEO and AI-search (GEO) skills for Claude Code by Gabriel Dev",
+  "owner": {
+    "name": "Gabriel Dev",
+    "url": "https://gabrieldev.eu"
+  },
+  "plugins": [
+    {
+      "name": "seo",
+      "source": "./plugins/seo",
+      "description": "8 SEO skills: page audit, titles & meta descriptions, JSON-LD schema, content briefs, internal links, local SEO, AI search (GEO/llms.txt) and technical SEO for codebases"
+    }
+  ]
+}
